@@ -2,7 +2,7 @@
 
 import math
 import os
-import random
+from hackerrank import random
 import re
 import sys
 from datetime import datetime

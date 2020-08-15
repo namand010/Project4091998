@@ -1,5 +1,5 @@
 import unittest
-from min_subarray import minArray
+from hackerrank.min_subarray import minArray
 
 class test(unittest.TestCase):
     def setUp(self):
