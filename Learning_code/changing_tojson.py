@@ -4,7 +4,7 @@ import json
 # dic0 = {}
 # with open(file, 'r') as fh:
 #     for i in fh:
-#         a, b = i.strip().split()
+#         a, b = i.strip().split(None, 1)
 #         print(a, b)
 #         dic0[a] = b
 #
